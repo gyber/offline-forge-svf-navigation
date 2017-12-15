@@ -1,0 +1,16 @@
+{
+  "name": "lighten",
+  "version": "1.0.0",
+  "description": "svf navigation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "qian ruiyuan",
+  "license": "ISC",
+  "dependencies": {
+    "config-lite": "^2.1.0",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  }
+}
